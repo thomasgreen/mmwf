@@ -51,6 +51,7 @@ function ContactPage() {
                     type="text"
                     placeholder="Name"
                     name="Name"
+                    aria-label="name"
                     required
                 />
 
@@ -58,14 +59,16 @@ function ContactPage() {
                        className="appearance-none block bg-gray-200 mb-6 px-3 py-2 rounded-md text-gray-700 w-full rounded"
                        placeholder="Street"
                        name="Street"
+                       aria-label="street"
                        required
                 />
 
                 <input type="city"
                        className="appearance-none block bg-gray-200 mb-6 px-3 py-2 rounded-md text-gray-700 w-full rounded"
                        id="city"
-                       placeholder="City"
-                       name="City"
+                       placeholder="Town / City"
+                       name="Town/City"
+                       aria-label="city"
                        required
                 />
 
@@ -74,6 +77,7 @@ function ContactPage() {
                        id="county"
                        placeholder="County"
                        name="County"
+                       aria-label="county"
                        required
                 />
 
@@ -82,6 +86,7 @@ function ContactPage() {
                        id="postcode"
                        placeholder="Postcode"
                        name="Postcode"
+                       aria-label="postcode"
                        required
                 />
 
@@ -90,6 +95,7 @@ function ContactPage() {
                        id="email"
                        placeholder="Email"
                        name="Email"
+                       aria-label="email"
                        required
                 />
 
@@ -98,6 +104,7 @@ function ContactPage() {
                        id="phone"
                        placeholder="Phone Number"
                        name="Phone Number"
+                       aria-label="phone number"
                        required
                 />
 
@@ -106,6 +113,8 @@ function ContactPage() {
                     placeholder="Outline the basis of your application, including details of your income, outgoings and any shortfall"
                     rows="8"
                     id="application"
+                    aria-label="application"
+
                     name="Application"
                 />
 
@@ -114,6 +123,8 @@ function ContactPage() {
                     placeholder="Include here any evidence in support of your application, such as proof of acceptance on chosen course, costs of equipment, testimonials"
                     rows="8"
                     id="evidence"
+                    aria-label="evidence"
+
                     name="Evidence"
                 />
 
