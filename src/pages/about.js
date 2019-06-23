@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import dogIllustration from "../images/dog-illustration.svg";
+import mmw from "../images/madeleine-mary-walker.jpg";
 
 function AboutPage() {
     return (
@@ -45,7 +45,8 @@ function AboutPage() {
                 </div>
 
                 <div className="w-2/3 md:w-1/3">
-                    <img src={dogIllustration} alt="A dog relaxing"/>
+                    <img src={mmw} alt="Madeleine Mary Walker"/>
+                    <span className="caption">Madeleine Mary Walker</span>
                 </div>
             </div>
         </Layout>

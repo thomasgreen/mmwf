@@ -15,7 +15,7 @@ function IndexPage() {
             <div className="max-w-3/4 mx-auto">
 
             <p className="mb-5 text-gray-800">
-                The Madeleine Mary Walker Foundation is a small voluntary Foundation set up a few years ago
+                <span className="font-bold">The Madeleine Mary Walker Foundation</span> is a small voluntary Foundation set up a few years ago
                 awarding
                 modest grants to support people involved in fulfilling their educational aspirations.
             </p>
