@@ -27,7 +27,7 @@ function IndexPage() {
 
             </div>
 
-            <div className="md:w-3/4 mx-auto leading-loose bg-teal-500 text-gray-100 p-8 mb-5 rounded">
+            <div className="md:w-3/4 mx-auto leading-loose bg-teal-600 text-gray-100 p-8 mb-5 rounded">
 
                 <span className="font-bold text-2xl">The foundation supports:</span>
 

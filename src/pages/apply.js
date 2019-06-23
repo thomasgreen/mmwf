@@ -13,7 +13,7 @@ function ContactPage() {
 
             <div className="mx-auto md:w-2/3">
 
-                <div className="bg-teal-500 text-gray-100 p-5 my-5 rounded">
+                <div className="bg-teal-600 text-gray-100 p-5 my-5 rounded">
                     <h2 className="text-2xl font-semibold mb-4">Application Information</h2>
 
                     <p className="mb-4">
