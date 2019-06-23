@@ -38,8 +38,7 @@ function AboutPage() {
 
                     <p className="border-gray-900 leading-loose pl-4 mb-8">
                         Madeliene died in her fifties from cancer when her parents established the Madeleine Mary Walker
-                        Foundation from monies raised through her career.
-                        Established the Madeleine Mary Walker Science Centre at Stockton Riverside College in 2003 with
+                        Foundation from monies raised through her career, and established the Madeleine Mary Walker Science Centre at Stockton Riverside College in 2003 with
                         a £50,000 donation from the foundation.
                     </p>
                 </div>

@@ -27,7 +27,7 @@ function ContactPage() {
                     <p className="">
                         To apply, please complete the form below. Alternatively, you can download{" "}
                         <a
-                            href="https://tailwindcss.com/docs/examples/forms"
+                            href="https://docs.google.com/document/d/16qYiTrjOO4qey0g9Q2OfU_PPr7pyRr2F/export?format=doc"
                             className="font-bold underline"
                         >
                             this
