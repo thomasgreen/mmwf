@@ -46,7 +46,7 @@ function AboutPage() {
 
                 <div className="w-2/3 md:w-1/3">
                     <img src={mmw} alt="Madeleine Mary Walker"/>
-                    <span className="caption">Madeleine Mary Walker</span>
+                    <span className="text-sm">Madeleine Mary Walker</span>
                 </div>
             </div>
         </Layout>
