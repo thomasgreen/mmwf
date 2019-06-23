@@ -7,8 +7,8 @@ function ContactPage() {
     return (
         <Layout>
             <SEO
-                title="Contact"
-                keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
+                title="Apply"
+                keywords={['apply', 'madeleine mary walker']}
             />
 
             <div className="mx-auto md:w-2/3">
@@ -32,7 +32,7 @@ function ContactPage() {
                         >
                             this
                         </a>{" "}
-                        document here and email it to{" "}
+                        application form and email a completed version to{" "}
                         <a href="mailto:m100pfb@yahoo.co.uk"
                               className="font-bold underline">
                             m100pfb@yahoo.co.uk

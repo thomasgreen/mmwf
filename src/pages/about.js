@@ -9,11 +9,12 @@ function AboutPage() {
         <Layout>
             <SEO
                 title="About"
-                keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
+                keywords={['about', 'madeleine mary walker']}
             />
 
             <div className="flex flex-col md:flex-row items-center">
                 <div className="md:w-2/3 md:mr-8">
+                    <h1 className="text-2xl pl-4 mb-8">About Madeleine Mary Walker</h1>
                     <p className="border-gray-900 leading-loose pl-4 mb-8">
                         Madeleine was a pupil at St Patrick’s RC School Thornaby and St Mary’s Convent, Middlesbrough
                         where she obtained 9 passes in GCE in 1956.

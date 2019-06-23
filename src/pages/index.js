@@ -64,7 +64,7 @@ function IndexPage() {
 
                 <p className="mb-5 text-gray-800">
                     At a past meeting of the Trustees there were over <span className="font-bold"> one
-                    hundred thirty </span>requests for support. Our funds are very limited and in a recent financial
+                    hundred and thirty </span>requests for support. Our funds are very limited and in a recent financial
                     year we
                     ran out of funds.
                 </p>
