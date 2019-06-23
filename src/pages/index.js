@@ -57,8 +57,9 @@ function IndexPage() {
                     Foundation has been recently overwhelmed with requests for support.
                 </p>
 
-                <div>
-                    <img className="opacity-75 mb-5 rounded-lg" src={topping} alt="Madeleine Mary Walker"/>
+                <div className=" mb-5 ">
+                    <img className="opacity-75 rounded-lg" src={topping} alt="Madeleine Mary Walker"/>
+                    <span className="text-gray-800 text-sm">Roseberry Topping, near our home in Stokesley</span>
                 </div>
 
 
