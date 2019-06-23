@@ -20,7 +20,7 @@ function AboutPage() {
                         where she obtained 9 passes in GCE in 1956.
                         She was a student at Constantine Technical College, Middlesbrough where she gained three further
                         GCEs, mathematics, physics and chemistry in 1958.
-                        Following that, a student at Stockton Billingham Technical College where she studied and gained
+                        Following that, she was a student at Stockton Billingham Technical College where she studied and gained
                         three advanced levels in mathematics, physics and chemistry in 1959.
                     </p>
 
@@ -33,12 +33,12 @@ function AboutPage() {
 
                     <p className="border-gray-900 leading-loose pl-4 mb-8">
                         She led a university expedition to Lapland whilst at Durham.
-                        Member of the teaching staff at Darwin College, a university in Australia for many years and
-                        secured dual nationality, Australian and British.
+                        Madeleine became a member of the teaching staff at Darwin College, a university in Australia for many years and
+                        secured dual nationality; Australian and British.
                     </p>
 
                     <p className="border-gray-900 leading-loose pl-4 mb-8">
-                        Madeliene died in her fifties from cancer when her parents established the Madeleine Mary Walker
+                        Madeleine died in her fifties from cancer when her parents established the Madeleine Mary Walker
                         Foundation from monies raised through her career, and established the Madeleine Mary Walker Science Centre at Stockton Riverside College in 2003 with
                         a £50,000 donation from the foundation.
                     </p>
