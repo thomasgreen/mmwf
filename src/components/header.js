@@ -57,7 +57,7 @@ function Header({ siteTitle }) {
 
             <Link
               to="/apply"
-              className="block md:inline-block mt-4 md:mt-0 no-underline text-white font-semibold"
+              className="block md:inline-block mt-4 md:mt-0 no-underline text-white font-semibold md:border md:border-white md:hover:border-transparent md:hover:text-teal-500 md:hover:bg-white md:mt-4 lg:mt-0 md:rounded md:px-4 md:py-2"
             >
               Apply
             </Link>

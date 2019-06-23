@@ -33,10 +33,10 @@ function ContactPage() {
                             this
                         </a>{" "}
                         document here and email it to{" "}
-                        <Link to="mailto:m100pfb@yahoo.co.uk"
+                        <a href="mailto:m100pfb@yahoo.co.uk"
                               className="font-bold underline">
                             m100pfb@yahoo.co.uk
-                        </Link>.
+                        </a>.
                     </p>
                 </div>
             </div>
@@ -51,13 +51,14 @@ function ContactPage() {
                     type="text"
                     placeholder="Name"
                     name="Name"
+                    required
                 />
 
                 <input type="street"
                        className="appearance-none block bg-gray-200 mb-6 px-3 py-2 rounded-md text-gray-700 w-full rounded"
-
                        placeholder="Street"
                        name="Street"
+                       required
                 />
 
                 <input type="city"
@@ -65,6 +66,7 @@ function ContactPage() {
                        id="city"
                        placeholder="City"
                        name="City"
+                       required
                 />
 
                 <input type="county"
@@ -72,6 +74,7 @@ function ContactPage() {
                        id="county"
                        placeholder="County"
                        name="County"
+                       required
                 />
 
                 <input type="postcode"
@@ -79,6 +82,7 @@ function ContactPage() {
                        id="postcode"
                        placeholder="Postcode"
                        name="Postcode"
+                       required
                 />
 
                 <input type="email"
@@ -86,6 +90,7 @@ function ContactPage() {
                        id="email"
                        placeholder="Email"
                        name="Email"
+                       required
                 />
 
                 <input type="phone"
@@ -93,6 +98,7 @@ function ContactPage() {
                        id="phone"
                        placeholder="Phone Number"
                        name="Phone Number"
+                       required
                 />
 
                 <textarea

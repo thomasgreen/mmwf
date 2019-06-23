@@ -14,7 +14,7 @@ function AboutPage() {
 
             <div className="flex flex-col md:flex-row items-center">
                 <div className="md:w-2/3 md:mr-8">
-                    <p className="border-gray-900 font-serif leading-loose pl-4 mb-8">
+                    <p className="border-gray-900 leading-loose pl-4 mb-8">
                         Madeleine was a pupil at St Patrick’s RC School Thornaby and St Mary’s Convent, Middlesbrough
                         where she obtained 9 passes in GCE in 1956.
                         She was a student at Constantine Technical College, Middlesbrough where she gained three further
@@ -23,20 +23,20 @@ function AboutPage() {
                         three advanced levels in mathematics, physics and chemistry in 1959.
                     </p>
 
-                    <p className="border-gray-900 font-serif leading-loose pl-4 mb-8">
+                    <p className="border-gray-900 leading-loose pl-4 mb-8">
                         She received a First degree a BSc Durham University in 1962, MSc from London University in 1969
                         and a further MSc from Durham University in 1984.
                         Madeleine was elected a member of the British Computer Society in 1985, and became Chartered
                         Engineer and managing director of her own engineering company.
                     </p>
 
-                    <p className="border-gray-900 font-serif leading-loose pl-4 mb-8">
+                    <p className="border-gray-900 leading-loose pl-4 mb-8">
                         She led a university expedition to Lapland whilst at Durham.
                         Member of the teaching staff at Darwin College, a university in Australia for many years and
                         secured dual nationality, Australian and British.
                     </p>
 
-                    <p className="border-gray-900 font-serif leading-loose pl-4 mb-8">
+                    <p className="border-gray-900 leading-loose pl-4 mb-8">
                         Madeliene died in her fifties from cancer when her parents established the Madeleine Mary Walker
                         Foundation from monies raised through her career.
                         Established the Madeleine Mary Walker Science Centre at Stockton Riverside College in 2003 with
