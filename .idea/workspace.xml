@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="258b310a-62a7-45bf-b02e-0ea821ed9c4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/apply.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="258b310a-62a7-45bf-b02e-0ea821ed9c4e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="59" column="118" selection-start-line="59" selection-start-column="118" selection-end-line="59" selection-end-column="118" />
+            <state relative-caret-position="347">
+              <caret line="59" column="231" selection-start-line="59" selection-start-column="231" selection-end-line="59" selection-end-column="231" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -218,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561224957727</updated>
       <workItem from="1561224959507" duration="43000" />
-      <workItem from="1561225020083" duration="9702000" />
+      <workItem from="1561225020083" duration="9919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9745000" />
+    <option name="totallyTimeSpent" value="9962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -412,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="59" column="118" selection-start-line="59" selection-start-column="118" selection-end-line="59" selection-end-column="118" />
+        <state relative-caret-position="347">
+          <caret line="59" column="231" selection-start-line="59" selection-start-column="231" selection-end-line="59" selection-end-column="231" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
