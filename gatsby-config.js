@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Madeline Mary Walker Foundation`,
-    description: `Madeline Mary Walker Foundation`,
+    title: `Madeleine Mary Walker Foundation`,
+    description: `Madeleine Mary Walker Foundation`,
     author: `Thomas Green`
   },
   plugins: [
