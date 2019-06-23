@@ -36,7 +36,7 @@ function Layout({children}) {
                                 </a>
                             </p>
 
-                            <p className="text-white">Registered Charity <span className="font-bold">1062657</span></p>
+                            <p className="text-white">Registered Charity No <span className="font-bold">1062657</span></p>
                         </div>
                     </footer>
                 </div>
