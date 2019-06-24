@@ -14,12 +14,12 @@ function IndexPage() {
 
             <div className="md:max-w-3/4 mx-auto leading-loose">
 
-                <p className="mb-5 text-gray-800 text-2xl">
+                <p className="mb-8 text-gray-800 text-2xl">
                     A North Eastern memorial Foundation created in 1997 to assist people of all ages and abilities who
                     may have difficulties in financing educational opportunities.
                 </p>
 
-                <p className="mb-5 text-gray-800">
+                <p className="mb-8 text-gray-800">
                     <span className="font-bold">The Madeleine Mary Walker Foundation</span> is a small voluntary
                     Foundation set up to award
                     modest grants supporting people involved in fulfilling their educational aspirations.
@@ -27,7 +27,7 @@ function IndexPage() {
 
             </div>
 
-            <div className="md:w-3/4 mx-auto leading-loose bg-teal-600 text-gray-100 p-8 mb-5 rounded">
+            <div className="md:w-3/4 mx-auto leading-loose bg-teal-600 text-gray-100 p-8 mb-8 rounded shadow-lg">
 
                 <span className="font-bold text-2xl">The foundation supports:</span>
 
@@ -52,24 +52,24 @@ function IndexPage() {
             </div>
 
             <div className="md:max-w-3/4 mx-auto leading-loose">
-                <p className="mb-5 text-gray-800">
+                <p className="mb-8 text-gray-800">
                     Given the stringent economic climate and the necessity for students to pay tuition fees the
                     Foundation has been recently overwhelmed with requests for support.
                 </p>
 
-                <div className=" mb-5 ">
-                    <img className="opacity-75 rounded-lg w-full" src={topping} alt="Madeleine Mary Walker"/>
+                <div className=" mb-8 ">
+                    <img className="opacity-75 rounded-lg w-full shadow-lg" src={topping} alt="Madeleine Mary Walker"/>
                     <span className="text-gray-800 text-sm">Roseberry Topping, near our home in Stokesley</span>
                 </div>
 
 
-                <p className="mb-5 text-gray-800">
+                <p className="mb-8 text-gray-800">
                     At a past meeting of the Trustees there were over <span className="font-bold"> one
                     hundred and thirty </span>requests for support. Our funds are very limited and in a recent financial
                     year we
                     ran out of funds.
                 </p>
-                <p className="mb-5 text-gray-800">
+                <p className="mb-8 text-gray-800">
                     Of necessity we have had to apply very strict criteria. The Foundation gives first
                     priority to supporting students from within our own locality (within 30 miles of Stokesley
                     in North
