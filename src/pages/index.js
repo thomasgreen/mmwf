@@ -58,7 +58,7 @@ function IndexPage() {
                 </p>
 
                 <div className=" mb-5 ">
-                    <img className="opacity-75 rounded-lg" src={topping} alt="Madeleine Mary Walker"/>
+                    <img className="opacity-75 rounded-lg w-full" src={topping} alt="Madeleine Mary Walker"/>
                     <span className="text-gray-800 text-sm">Roseberry Topping, near our home in Stokesley</span>
                 </div>
 
