@@ -25,6 +25,16 @@ module.exports = {
         tailwind: true,
         purgeOnly: ["src/css/style.css"]
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-36498897-5",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+      },
     }
   ]
 };
