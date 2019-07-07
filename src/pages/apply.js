@@ -42,7 +42,7 @@ function ContactPage() {
             </div>
 
             <form className="mx-auto md:w-2/3 md:flex md:flex-wrap md:justify-between"
-                  action="https://formspree.io/tomgreen135@gmail.com" method="POST">
+                  action="https://formspree.io/m100pfb@yahoo.co.uk" method="POST">
 
 
                 <input
