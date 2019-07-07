@@ -34,21 +34,21 @@ function Header({ siteTitle }) {
           <div className="text-sm">
             <Link
               to="/"
-              className="block mt-4 md:inline-block md:mt-0 mr-6 no-underline text-white font-semibold"
+              className="block mt-4 md:inline-block md:mt-0 mr-6 no-underline text-white font-semibold select-none"
             >
               Home
             </Link>
 
             <Link
               to="/about"
-              className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white font-semibold"
+              className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white font-semibold select-none"
             >
               About Madeleine
             </Link>
 
             <Link
               to="/apply"
-              className="block md:inline-block mt-4 md:mt-0 no-underline text-white font-semibold md:border md:border-white md:hover:border-transparent md:hover:text-teal-600 md:hover:bg-white md:mt-4 lg:mt-0 md:rounded md:px-4 md:py-2"
+              className="block md:inline-block mt-4 md:mt-0 no-underline text-white font-semibold md:border md:border-white md:hover:border-transparent md:hover:text-teal-600 md:hover:bg-white md:mt-4 lg:mt-0 md:rounded md:px-4 md:py-2 select-none"
             >
               Apply
             </Link>

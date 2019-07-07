@@ -31,46 +31,36 @@ function IndexPage() {
 
                 <span className="font-bold text-2xl">The foundation supports:</span>
 
-                <ul className="">
-                    <li>
+                <ul className="p-4">
+                    <li className="mb-2">
                         - People with their education at all
                         levels
                     </li>
-                    <li>
+                    <li className="mb-2">
                         - Students with the purchase of their books, equipment or tools
                     </li>
-                    <li>
+                    <li className="mb-2">
                         - Students with their tuition fees
                     </li>
-                    <li>
+                    <li className="mb-2">
                         - Students with the purchase of their musical instruments
                     </li>
-                    <li>
+                    <li className="mb-2">
                         - Students with their travel, projects abroad and field studies
                     </li>
                 </ul>
             </div>
 
             <div className="md:max-w-3/4 mx-auto leading-loose">
-                <p className="mb-8 text-gray-800">
-                    Given the stringent economic climate and the necessity for students to pay tuition fees the
-                    Foundation has been recently overwhelmed with requests for support.
-                </p>
-
                 <div className=" mb-8 ">
-                    <img className="opacity-75 rounded-lg w-full shadow-lg" src={topping} alt="Madeleine Mary Walker"/>
                     <span className="text-gray-800 text-sm">Roseberry Topping, near our home in Stokesley</span>
+                    <img className="opacity-75 rounded-lg w-full shadow-lg" src={topping} alt="Madeleine Mary Walker"/>
                 </div>
 
 
                 <p className="mb-8 text-gray-800">
-                    At a past meeting of the Trustees there were over <span className="font-bold"> one
-                    hundred and thirty </span>requests for support. Our funds are very limited and in a recent financial
-                    year we
-                    ran out of funds.
-                </p>
-                <p className="mb-8 text-gray-800">
-                    Of necessity we have had to apply very strict criteria. The Foundation gives first
+                    Our funds are very limited, therefore we have to apply very strict criteria. The Foundation
+                    gives first
                     priority to supporting students from within our own locality (within 30 miles of Stokesley
                     in North
                     Yorkshire).
