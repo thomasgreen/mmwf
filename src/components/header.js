@@ -1,6 +1,7 @@
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import React, { useState } from "react";
+import logo from "../favicon_compressed.png";
 
 function Header({ siteTitle }) {
   const [isExpanded, toggleExpansion] = useState(false);
@@ -9,6 +10,7 @@ function Header({ siteTitle }) {
     <nav className="bg-teal-600 shadow-lg">
       <div className="flex flex-wrap items-center justify-between max-w-4xl mx-auto p-4 md:p-8">
         <Link to="/" className="flex items-center no-underline text-white max-w-3/4">
+          <img className="w-16 mr-2" src={logo} alt="Madeleine Mary Walker Logo"/>
           <span className="font-bold text-2xl tracking-tight">{siteTitle} <span className="text-xs hidden lg:inline">Reg Charity Commission No. 1062657</span></span>
         </Link>
 
