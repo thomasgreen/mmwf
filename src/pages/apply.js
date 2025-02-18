@@ -16,14 +16,6 @@ function ContactPage() {
                 <div className="bg-teal-600 text-gray-100 p-5 my-5 rounded">
                     <h2 className="text-2xl font-semibold mb-4">Application Information</h2>
 
-                    <p className="mb-4">
-                        All applicants will undergo a telephone interview before a grant will be awarded.
-                    </p>
-                    <p className="mb-4">
-                        If you do not hear from the Foundation within two months of your application, you can assume
-                        your application has been unsuccessful.
-                    </p>
-
                     <p className="">
                         To apply, please complete the form below. Alternatively, you can download{" "}
                         <a
