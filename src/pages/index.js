@@ -56,16 +56,7 @@ function IndexPage() {
                     <span className="text-gray-800 text-sm">Roseberry Topping, near our home in Stokesley</span>
                     <img className="opacity-75 rounded-lg w-full shadow-lg" src={topping} alt="Madeleine Mary Walker"/>
                 </div>
-
-
-                <p className="mb-8 text-gray-800">
-                    Our funds are very limited, therefore we have to apply very strict criteria. The Foundation
-                    gives first
-                    priority to supporting students from within our own locality (within 30 miles of Stokesley
-                    in North
-                    Yorkshire).
-                </p>
-
+                            
                 <p>To see how to apply, please visit our{" "} <Link to="/apply"
                                                                     className="font-bold underline"> Application
                     Page</Link>.</p>
